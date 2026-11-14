@@ -1,1 +1,15 @@
+# Phân tích và thiết kế website bán sách Vinabook
 
+**Học phần:** Thiết kế phần mềm  
+**Năm thực hiện:** 2025  
+**Hình thức:** Bài tập nhóm
+
+### Giới thiệu
+Bài tập tập trung vào phân tích và thiết kế hệ thống website bán sách trực tuyến Vinabook, bao gồm mô tả chức năng, phân tích Use Case và thiết kế hệ thống.
+
+### Vai trò cá nhân
+- Phụ trách phân tích hai chức năng: Liên hệ hỗ trợ và Quản lý giảm giá.
+- Mô tả Use Case, luồng xử lý nghiệp vụ và phản hồi của hệ thống đối với từng chức năng.
+
+### Tài liệu
+Báo cáo chi tiết: `Vinabook_Software_Design.pdf`
